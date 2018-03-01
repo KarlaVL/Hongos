@@ -7,4 +7,9 @@ Cosita!!!!
 y por eso me enoja con Ya sabes quien
 pero aun asi votare por ya sabes quien
 jajajajaja ya te conteste 
+<<<<<<< HEAD
 ya tengo hambre 
+=======
+Hola sonsos
+hola
+>>>>>>> 124849b5c6a69009ec5fcc47b3156063c5d1e563
