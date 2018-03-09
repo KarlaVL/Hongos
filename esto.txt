@@ -1,0 +1,8 @@
+su - postgres
+psql
+CREATE DATABASE inventario;
+\c inventario;
+\d producto;
+select * from producto;  
+
+
