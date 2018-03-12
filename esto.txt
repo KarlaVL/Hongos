@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+﻿su - postgres
+=======
+su - postgres
+>>>>>>> origin
+psql
+CREATE DATABASE inventario;
+\c inventario;
+\d producto;
+select * from producto;  
+
+
+<<<<<<< HEAD
+hola
+=======
+>>>>>>> origin
